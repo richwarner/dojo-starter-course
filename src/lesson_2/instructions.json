@@ -1,0 +1,11 @@
+{
+  "intro": "Now that we've defined Direction, we are ready to create the attributes of the Moves model.",
+  "tasks": [
+    "In the Moves model below, add a field called \"remaining\" of type u8.",
+    "Also add a field called \"last_direction\" of type Direction."
+  ],
+  "hints": [
+    "This model will be used to store the state of movement for one player.",
+    "Think about an instance of this model as a row in a database table with a primary key that references one player."
+  ]
+}
