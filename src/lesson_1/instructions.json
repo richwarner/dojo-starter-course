@@ -1,6 +1,6 @@
 {
   "intro": "You're going to create a Moves model for the game to keep track of the moves a player has and the direction the player went last. In order to do that, we first need to define what a direction is.",
-  "tasks": ["Add the remaining needed variants to the Direction enum below."],
+  "tasks": ["Add the remaining needed variants to the Direction enum."],
   "hints": [
     "Use the trait implementation below it to know which variants the enum needs.",
     "Order of the variants matters!"
